@@ -14,16 +14,16 @@ function Intro() {
         Management experience. I have learned various programming languages,
         such as JavaScript, Python, and Java, by building applications and
         projects. I enjoy taking on unique challenges and finding solutions to
-        make business processes more efficient and effective. In addition to my
+        make business processes more efficient and effective.<br/> In addition to my
         professional experience, I am a veteran who has dedicated part of my
         life to serving my country and community. My military service instilled
         in me a strong work ethic and discipline that I bring to all aspects of
-        my career. I am committed to building innovative software applications
+        my career.<br/> I am committed to building innovative software applications
         and digital solutions that drive business growth. With a strong
         technical background, I excel in leading cross-functional teams to
         deliver successful projects on time and within budget. I am always
         looking for unique solutions to complex problems and continuously
-        improving business. As a proactive professional, I foster a
+        improving business.<br/> As a proactive professional, I foster a
         collaborative and goal-oriented environment, where innovative solutions
         and continuous improvement are the norms.
         {"     "}
