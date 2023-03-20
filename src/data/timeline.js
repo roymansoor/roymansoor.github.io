@@ -1,7 +1,7 @@
 export default [
   {
     year: "Today",
-    title: "Wheeled Vehicle Mechanic",
+    title: "Specialist",
     duration: "3 Years",
     details: `Proactively troubleshot and improved products, receiving multiple awards for exceeding industry standards.
         Collaborated and contributed insights that increased the efficiency of the product handling process by 20%.
@@ -24,11 +24,13 @@ export default [
   },
   {
     year: "2017",
-    title: "Managing Partner",
+    title: "Project Development Manager",
     duration: "2 Years",
-    details: `Started a real estate investment company, set up administrative systems, and built a strong network of brokers, agents, 
-    and other business partners. Analyzed potential profits and costs based on market research. Secured property and contractors and 
-    sold property at 25% profit.`,
+    details: `Build and maintain a robust website, design and develop database for inventory, and lead tracking.
+     Set up administrative systems, and built a strong network of brokers, agents, and other business partners.
+     Analyzed potential profits and costs based on market research. Secured property and contractors and sold property at 25% profit.
+
+    `,
   },
   {
     year: "2014",
@@ -49,11 +51,14 @@ export default [
   },
   {
     year: "2012",
-    title: "Program Manager",
+    title: "Program Development  Manager",
     duration: "6 Years",
-    details: `Provided procurement and logistical support, IT products, and services to the US Army,  international organizations, 
-    and telecom companies across Afghanistan, awarded multi-million dollar contracts, and implemented all with a 30% 
-    average profit margin over the years. `,
+    details: `Develop and maintain websites for the company, design and develop a database for vendors and suppliers.
+    Design and implement LAN network, setup and configure pfSense firewall server. 
+    Provided procurement and logistical support, IT products, and services to the US Army,  
+    international organizations, and telecom companies across Afghanistan, awarded multi-million dollar contracts, 
+    and implemented all with a 30% average profit margin over the years. 
+    `,
   },
 
   {
@@ -61,7 +66,9 @@ export default [
     title: "Program Development Officer",
     duration: "2 Years",
     details: `Received contracts totaling $18M from the US Embassy in Kabul to build media centers for 6 universities 
-    across Afghanistan, in an effort to promote journalism, public awareness, and democracy. `,
+    across Afghanistan, in an effort to promote journalism, public awareness, and democracy. Maintain and manage various 
+    social media platforms, including content creation, scheduling, and community management, to increase brand visibility and engagement.
+    `,
   },
 
 
