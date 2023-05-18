@@ -23,4 +23,18 @@ export default [
     stack: ["JavaScript", "React", "Express", "Bootstrap"],
     link: "https://github.com/roymansoor/instructor-hub-2",
   }, 
+  {
+    title: "Scrum Master",
+    imgUrl: "./assets/Jira.png",
+    stack: ["Agile", "Scrum", "Confluence", "Jira", "Mural"],
+    link: "https://www.agileforpatriots.org/phoenix-3/",
+  }, 
+
+  {
+    title: "PSM-I Certificate",
+    imgUrl: "./assets/Scrum.png",
+    stack: ["Agile", "Scrum Master", "Product Owner"],
+    link: "https://www.scrum.org/user/1234948",
+  }, 
+
 ];

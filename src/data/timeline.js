@@ -9,6 +9,15 @@ export default [
         `,
   },
   {
+    year: "2023",
+    title: "Agile for Patriots Associate Scrum Master",
+    duration: "3 Months",
+    details: `During my participation in the Agile for Patriots cohort, I had the invaluable opportunity to work in a nexus-level 
+    scrum environment where I honed my skills in agile methodologies and embraced the best practices. Collaborating closely with 
+    three scrum teams, we successfully created a website that showcased our collective expertise. Additionally, I furthered my professional
+     development by earning the esteemed PSM I certification from scrum.org, solidifying my knowledge and expertise in the field of scrum.`,
+  },
+  {
     year: "2022",
     title: "Galvanize Associate Full Stack Developer",
     duration: "6 Months",
